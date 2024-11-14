@@ -1,2 +1,2 @@
 # tecommerce-atividade
-Aplicação CRUD de um tecommerce com Django e Angular.
+Aplicação CRUD de um tecommerce com Django, Angular e PostGresSQL.
